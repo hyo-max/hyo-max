@@ -1,6 +1,6 @@
 ### 🙌🏼 Hi, I'm Hyojin Park 👋
-
 <a href="https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=CjwKCAiA9aKQBhBREiwAyGP5lX-u1s-OnZmAIMvXFPTXMhIhlCwG-PhcoVPcR_aX4u5c6uALKkN-QBoChvgQAvD_BwE" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/></a>
+---
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/hyojpark)](https://github.com/JaeSeoKim/badge42)
 
