@@ -2,7 +2,9 @@
 
 <a href="https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=CjwKCAiA9aKQBhBREiwAyGP5lX-u1s-OnZmAIMvXFPTXMhIhlCwG-PhcoVPcR_aX4u5c6uALKkN-QBoChvgQAvD_BwE" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=ffffff"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo-max&show_icons=true&theme=slateorange)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/hyojpark)](https://github.com/JaeSeoKim/badge42)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo-max&show_icons=true&theme=gruvbox)
 
 <!--
 **hyo-max/hyo-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
