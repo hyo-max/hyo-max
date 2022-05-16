@@ -5,6 +5,8 @@
 <!--[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/hyojpark)](https://github.com/JaeSeoKim/badge42)-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyo-max&show_icons=true&theme=gruvbox)
+<br>
+[![hyojpark's 42 stats](https://badge42.vercel.app/api/v2/cl38fzq2f007909jp1qm9wu1u/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **hyo-max/hyo-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
